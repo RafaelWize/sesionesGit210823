@@ -12,3 +12,5 @@ nuevo commit
 push sin bronca
 commit desde github
 commit con pull
+
+fetch + merge
