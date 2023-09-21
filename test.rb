@@ -17,3 +17,7 @@ end
 def soyRafaFirmado
   p "Hola soy Rafa firmado"
 end
+
+def soyRafaFirmadoAutomatico
+  p "Hola soy Rafa firmado automaticamente"
+end
