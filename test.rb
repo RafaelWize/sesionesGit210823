@@ -9,3 +9,7 @@ end
 def nuevaRama
   p "hola Nueva Rama"
 end
+
+def soyPaz
+  p "Hola soy Paz"
+end
