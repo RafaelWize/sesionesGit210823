@@ -21,3 +21,7 @@ end
 def soyRafaFirmadoAutomatico
   p "Hola soy Rafa firmado automaticamente"
 end
+
+def newSigned
+  p "new Signed"
+end
